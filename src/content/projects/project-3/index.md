@@ -12,11 +12,11 @@ This project provides insights into supply chain efficiency, identifying key fac
 
 ## Dashboards
 
-### ![1st-page](/public/Images/Other/default1.png)
+### ![1st-page](/public/default1.png)
 
-### ![2nd-page](/public/Images/Other/default2.png)
+### ![2nd-page](/public/default2.png)
 
-### ![3rd-page](/public/Images/Other/default3.png)
+### ![3rd-page](/public/default3.png)
 
 #### Technologies Used
 
@@ -28,7 +28,7 @@ This project provides insights into supply chain efficiency, identifying key fac
 
 This project analyzes data from the HR sector. The analysis focuses on department performance, labor costs versus average performance rate, and year distribution with job rate.
 
-### ![hr-dashboard](/public/Images/Other/Main.png)
+### ![hr-dashboard](/public/Main.png)
 
 #### Technologies Used
 
@@ -40,9 +40,9 @@ This project analyzes data from the HR sector. The analysis focuses on departmen
 
 This project analyzes the AdventureWorks2022 database—a fictional bicycle manufacturer—using a star schema, SQL, and Power BI to uncover insights into sales, customer behavior, and product profitability.
 
-### ![sales](/public/Images/Other/Sales-appliedfilters.png)
+### ![sales](/public/Sales-appliedfilters.png)
 
-### ![products](/public/Images/Other/Products-appliedfilter.png)
+### ![products](/public/Products-appliedfilter.png)
 
 #### Technologies Used
 
