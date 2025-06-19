@@ -12,11 +12,11 @@ This contains three data analysis projects completed as part of the PwC Upskilli
 
 ## Telecom Dashboard
 
-## ![Telecom-Dashboard](/public/Pwc-Telecom.png)
+![Telecom-Dashboard](/public/Pwc-Telecom.png)
 
 ## Churn Dashboard
 
-## ![Churn-Dashboard](/public/Churn%20Dashboard.png)
+![Churn-Dashboard](/public/Churn%20Dashboard.png)
 
 ## Diversity & Inclusion Dashboard
 
