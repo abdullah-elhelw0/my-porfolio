@@ -1,7 +1,7 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-    NAME: "Abdullah Elhellw Portfolio",
+    NAME: "Abdullah Elhellw",
     EMAIL: "abdullahelhelw0@gmail.com",
     NUM_POSTS_ON_HOMEPAGE: 3,
     NUM_WORKS_ON_HOMEPAGE: 2,
@@ -13,10 +13,10 @@ export const HOME: Metadata = {
     DESCRIPTION: "minimal and lightweight portfolio.",
 };
 
-export const BLOG: Metadata = {
-    TITLE: "Blog",
-    DESCRIPTION: "A collection of articles on topics I am passionate about.",
-};
+// export const BLOG: Metadata = {
+//     TITLE: "",
+//     DESCRIPTION: "",
+// };
 
 export const WORK: Metadata = {
     TITLE: "Work",

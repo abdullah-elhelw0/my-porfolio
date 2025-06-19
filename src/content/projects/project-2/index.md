@@ -1,7 +1,7 @@
 ---
 title: "DEPI Capstone"
 description: "The Capstone Project for Digital Egyptian Pioneers Initiative training program"
-date: "Mar 26 2024"
+date: "Apr 26 2025"
 demoURL: ""
 repoURL: "https://github.com/abdullah-elhelw0/DEPI_Grad"
 ---

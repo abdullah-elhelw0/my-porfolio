@@ -1,7 +1,7 @@
 ---
 title: "Independent Projects"
 description: "Projects developed to experiment with new tools and dive into various business domains."
-date: "Mar 26 2024"
+date: "Feb 26 2025"
 demoURL: ""
 repoURL: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: "PwC Tasks"
 description: "Telecom Dashboards done in PwC job simulation"
-date: "Mar 18 2024"
+date: "Jun 18 2025"
 demoURL: ""
 repoURL: "https://github.com/abdullah-elhelw0/PwC-Tasks"
 ---
