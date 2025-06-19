@@ -15,8 +15,8 @@ This project was aimed to evaluate the production efficiency of a manufacturing 
 
 ## Dashboards
 
-![Operators](/Images/DEPI/Operators.png)
+![Operators](/public/Images/DEPI/Operators.png)
 
 ---
 
-![Operators](/Images/DEPI/Machines.png)
+![Operators](/public/Images/DEPI/Machines.png)
